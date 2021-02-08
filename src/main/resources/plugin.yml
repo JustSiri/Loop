@@ -1,0 +1,9 @@
+name: Loop
+version: ${project.version}
+main: justsiri.loop.Loop
+api-version: 1.16
+authors: [ JustSiri ]
+
+commands:
+  loop:
+    description: default command of Loop plugin
